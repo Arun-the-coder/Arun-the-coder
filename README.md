@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arun-the-coder
+- 👋 Hi, I’m @Arun Kumar Reddy Pottipati
 - 👀 I’m interested in c++,python,web designing
 - 🌱 I’m currently learning python,web designing
 - 💞️ I’m looking to collaborate on google,microsoft,amazon
